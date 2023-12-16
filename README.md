@@ -1,2 +1,4 @@
 # python-mini-task
-Solving mini tasks
+Here some mini task solutions are provided.
+
+
